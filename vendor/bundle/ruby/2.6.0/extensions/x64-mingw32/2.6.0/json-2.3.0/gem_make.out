@@ -1,0 +1,13 @@
+current directory: D:/ruby_projects/my-photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200509-12832-1pa386y.rb extconf.rb
+creating Makefile
+
+current directory: D:/ruby_projects/my-photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" clean
+
+current directory: D:/ruby_projects/my-photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: D:/ruby_projects/my-photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" install

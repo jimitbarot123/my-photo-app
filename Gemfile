@@ -44,6 +44,10 @@ gem 'jquery-rails'
 
 gem 'stripe'
 
+gem 'carrierwave'
+
+gem 'mini_magick'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
